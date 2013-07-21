@@ -24,8 +24,6 @@ PRODUCT_PACKAGES := \
     WAPPushManager
 
 PRODUCT_PACKAGES += \
-    LiveWallpapers \
-    LiveWallpapersPicker \
     PhotoTable
 
 include $(SRC_TARGET_DIR)/product/emulator.mk
